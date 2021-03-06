@@ -5,3 +5,7 @@ pip
 import
 require('@
 require('
+pip install git
+Gemfile
+source '
+source "
