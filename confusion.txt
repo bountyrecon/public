@@ -1,6 +1,8 @@
 filename:composer.json
 filename:package.json
 filename:requirements.txt
+"yarn add"
+"npm install"
 pip 
 import
 require('@
