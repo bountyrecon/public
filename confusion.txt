@@ -7,7 +7,7 @@ pip
 import
 require('@
 require('
-pip install git
+pip install
 Gemfile
 source '
 source "
